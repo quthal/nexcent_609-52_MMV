@@ -52,6 +52,11 @@ h3 {
     letter-spacing: 1px;
 }
 
+h4 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
 ul {
     margin: 0;
     list-style: none;
@@ -68,6 +73,14 @@ a {
     color: black;
     text-decoration: none;
 
+}
+
+.text-right {
+    text-align: right;
+}
+
+.button {
+    cursor: pointer;
 }
 
 .button_light-sm {
@@ -90,4 +103,11 @@ a {
     line-height: 20px;
     font-weight: 400;
     color: white;
+}
+
+.button_icon {
+    padding: 12px;
+    img {
+        vertical-align: middle;
+    }
 }

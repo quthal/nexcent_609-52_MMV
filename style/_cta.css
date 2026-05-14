@@ -1,0 +1,18 @@
+.cta {
+    background-color: #F5F7FA;
+    padding: 60px 0px;
+    margin-top: 50px;
+    text-align: center;
+
+    h2 {
+        margin-bottom: 32px;
+    }
+
+    .buttom__primary-xl {
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        gap: 8px;
+    }
+}
+

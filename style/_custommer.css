@@ -1,0 +1,30 @@
+.custommer {
+    padding: 50px 0px;
+}
+
+.custommer__content {
+    display: flex;
+    gap: 24px;
+
+    img {
+        border-radius: 8px;
+
+    }
+}
+
+.custommer__text p {
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.custommer__text_info{
+    h4 {
+        color: #4CAF4F;
+        margin-bottom: 8px;
+    }
+
+    p {
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+}
