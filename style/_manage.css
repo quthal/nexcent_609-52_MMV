@@ -1,13 +1,8 @@
 .manage {
-    padding: 50 0px;
+    padding: 50px 0px;
 }
 .manage h2 {
     text-align: center;
-    font-size: 36px;
-    line-height: 44px;
-    font-weight: 600;
-    color: #4D4D4D;
-    margin-bottom: 8px;
 }
 .manage__subtitle {
     text-align: center;
@@ -33,6 +28,11 @@
         font-size: 20px;
         line-height: 28px;
         font-weight: 600;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 20px;
     }
 }
 .manage__card-icon {

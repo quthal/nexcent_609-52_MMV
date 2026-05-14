@@ -1,13 +1,8 @@
 .clients {
-    padding: 100 0 50px;
+    padding: 100px 0 50px;
 }
 .clients h2 {
     text-align: center;
-    font-size: 36px;
-    line-height: 44px;
-    font-weight: 600;
-    color: #4D4D4D;
-    margin-bottom: 8px;
 }
 .clients p {
     text-align: center;
