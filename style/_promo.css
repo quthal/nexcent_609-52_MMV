@@ -1,0 +1,37 @@
+.promo {
+    background: #F5F7FA;
+    padding: 96px 0px;
+} 
+
+.promo__content {
+    display: flex;
+    align-items: center;
+}
+
+.promo__group h1{
+    font-size: 64px;
+    line-height: 76px;
+    font-weight: 700;
+    color: #4D4D4D;
+    margin-bottom: 16px;
+}
+
+.promo__group h1 span{
+    color: #4CAF4F;
+}
+
+.promo__group p {
+    line-height: 24px;
+    margin-bottom: 32px;
+}
+
+.button_primary-xl {
+    font-family: "Inter", sans-serif;
+    background-color: #4CAF4F;
+    padding: 14px 32px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #F5F7FA;
+}
