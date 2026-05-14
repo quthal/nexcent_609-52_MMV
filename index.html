@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nexcent</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css">
 </head>
+
 <body>
     <header>
-        <nav>
+        <nav class="desctop-navigation">
             <img src="img/Logo.svg" alt="Nexcetn">
-            <ul>
-                <li>
+            <ul class="desctop-navigation__list">
+                <li class="desctop-navigation__list-element_active">
                     <a href="#">Home</a>
                 </li>
                 <li>
@@ -29,11 +37,12 @@
                     <a href="#">FAQ</a>
                 </li>
             </ul>
-            <div>
-                <button>Login</button>
-                <button>Sigin Up</button>
+            <div class="desctop-navigation__buttons">
+                <button class="button_light">Login</button>
+                <button class="button_primary">Sigin Up</button>
             </div>
         </nav>
     </header>
 </body>
+
 </html>

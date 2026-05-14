@@ -1,0 +1,22 @@
+.desctop-navigation {
+    width: 1152px;
+    margin: 0 auto;
+    padding: 22px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.desctop-navigation__list {
+    display: flex;
+    gap: 50px;
+}
+
+.desctop-navigation__list-element_active {
+    font-weight: 500;
+}
+
+.desctop-navigation__button {
+    display: flex;
+    gap: 14px;
+}
