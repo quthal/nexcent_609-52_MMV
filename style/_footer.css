@@ -51,7 +51,7 @@
         width: 100%;
     }
 
-    .foooter__form_input {
+    .footer__form_input {
         height: 44px;
         width: 100%;
         background-color: transparent;
@@ -72,7 +72,7 @@
     }
 }
 
-.foooter__item-social {
+.footer__item_social {
     display: flex;
     justify-content: flex-end;
     gap: 16px;
@@ -93,7 +93,7 @@
     }
 }
 
-.foooter__copyright {
+.footer__copyright {
     text-align: center;
     font-size: 14px;
     line-height: 20px;  
